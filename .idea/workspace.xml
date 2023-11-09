@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fb1acfc-85aa-4d4d-b2d0-71178145cda2" name="Changes" comment="Chapitre - Héritage - Partie 1">
-      <change afterPath="$PROJECT_DIR$/src/heritage/models/Animalerie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heritage/models/Canari.java" afterDir="false" />
+    <list default="true" id="6fb1acfc-85aa-4d4d-b2d0-71178145cda2" name="Changes" comment="Chapitre - Héritage - Partie 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heritage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heritage/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heritage/models/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heritage/models/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heritage/models/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heritage/models/Chat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heritage/models/Mammifere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heritage/models/Mammifere.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heritage/models/Oiseau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heritage/models/Oiseau.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Quentin/Downloads/Concession Automobile - 5",
+    "last_opened_file_path": "C:/Users/Quentin/Downloads/Concession Automobile - 7",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -97,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699519692117</updated>
-      <workItem from="1699519693086" duration="10770000" />
+      <workItem from="1699519693086" duration="11937000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -123,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699529762700</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Chapitre - Héritage - Partie 2">
+      <option name="closed" value="true" />
+      <created>1699536614583</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699536614583</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +134,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Chapitre - Polymorphisme" />
     <MESSAGE value="Chapitre - Héritage - Partie 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapitre - Héritage - Partie 1" />
+    <MESSAGE value="Chapitre - Héritage - Partie 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapitre - Héritage - Partie 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
