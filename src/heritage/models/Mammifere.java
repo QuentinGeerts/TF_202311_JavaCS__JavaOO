@@ -17,4 +17,12 @@ public class Mammifere extends Animal {
         System.out.println("Le mammifère se déplace sur " + nbPattes + " pattes.");
     }
 
+    @Override
+    public String informations() {
+        return super.informations() + "\n - Espece : Mammifere\n - Nombre de pattes : " + nbPattes;
+    }
+
+    public final void accoucher() {
+        System.out.println("L'animal accouche");
+    }
 }

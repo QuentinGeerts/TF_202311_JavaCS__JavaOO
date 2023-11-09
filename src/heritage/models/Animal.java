@@ -23,4 +23,8 @@ public class Animal {
     public void seDeplacer () {
         System.out.println("L'animal se déplace");
     }
+
+    public String informations () {
+        return "Animal : \n - Nom : " + nom;
+    }
 }

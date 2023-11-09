@@ -1,6 +1,6 @@
 package heritage.models;
 
-public class Chat extends Mammifere {
+public final class Chat extends Mammifere {
 
     private boolean aimeLait;
 
@@ -18,5 +18,10 @@ public class Chat extends Mammifere {
 
     public void miauler() {
         System.out.println("Miaaouu");
+    }
+
+    @Override
+    public String informations() {
+        return super.informations() + ( aimeLait ? "\n - Aime le lait" : "\n - N'aime pas le lait");
     }
 }

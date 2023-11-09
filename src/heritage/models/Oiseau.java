@@ -8,4 +8,14 @@ public class Oiseau extends Animal {
         super(nom);
         this.couleurPlume = couleurPlume;
     }
+
+    @Override
+    public void seDeplacer() {
+        System.out.println("L'oiseau se déplace en volant.");
+    }
+
+    @Override
+    public String informations() {
+        return super.informations() + "\n - Espece : Oiseau\n - Couleur des plumes : " + couleurPlume;
+    }
 }
